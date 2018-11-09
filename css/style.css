@@ -1,0 +1,72 @@
+@font-face{
+  font-family:'BurbankBigCondensed-Black';
+  src:url("fonts/BurbankBigCondensed-Black.eot");
+  src: url('fonts/BurbankBigCondensed-Black.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BurbankBigCondensed-Black.woff') format('woff'),
+        url('fonts/BurbankBigCondensed-Black.ttf') format('truetype'),
+        url('fonts/BurbankBigCondensed-Black.svg#Calibri') format('svg'),
+        url('fonts/BurbankBigCondensed-Black.otf')format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+  margin: 0;
+  padding: 0;
+  background: url(../img/galaxyfundo.jpg);
+  background-size: 100% 100%;
+  font-family: sans-serif;
+  background-position: no-repeat;
+  background-attachment:fixed;
+  font-family:"BurbankBigCondensed-Black"
+}
+.logo
+{
+  width: 100%;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  margin-top: -25px;
+}
+.logo {
+  width: 200px;
+  height: 50px;
+  line-height: 50px;
+  text-align:center;
+  color: white;
+  position: absolute;
+  top: 50%; 
+  margin-top: -450px; 
+  left: 50%; 
+  margin-left: -100px; 
+}
+.logo_
+{
+  color: white;
+  line-height: 50px;
+  text-align: left;
+  position: absolute;
+  top: 50%;
+  margin-top: -25px;
+  margin-left: 25px;
+}
+.logo_1
+{ width: 100%;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  margin-top: -25px;
+  color: white;
+}
+.footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+}
+.linha{
+  width:
+
+}
